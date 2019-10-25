@@ -19,6 +19,20 @@ public class NumeralTests {
     }
 
     @Test
+    public void Two() {
+        Assert.assertEquals(numeralConverter.generate(2), "II");
+    }
+
+    @Test
+    public void Three() {
+        Assert.assertEquals(numeralConverter.generate(3), "III");
+    }
+
+    @Test
+    public void Four() {
+        Assert.assertEquals(numeralConverter.generate(4), "IV");
+    }
+    @Test
     public void Five() {
         Assert.assertEquals(numeralConverter.generate(5), "V");
     }
@@ -42,4 +56,10 @@ public class NumeralTests {
     public void TwoThousandFourHundredThirtyTwo() {
         Assert.assertEquals(numeralConverter.generate(2432), "MMCDXXXII");
     }
+
+    @Test
+    public void OneThousandFourHundredNinetyNine() {
+        Assert.assertEquals(numeralConverter.generate(1499), "MCDXCIX");
+    }
+
 }

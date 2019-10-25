@@ -141,12 +141,6 @@ public class NumeralConverter implements RomanNumeralGenerator {
     }
 
     private boolean shouldAppendDeduction(int denominationIndex, int number) {
-        // Don't want to deduct if we're the largest denomination
-        if (denominationIndex == 0) {
-            return false;
-        }
-
-        //
         int deductionIndex = getNextDenominationDeductionIndex(denominationIndex);
         return number >= denominations.get(denominationIndex) - denominations.get(deductionIndex);
     }

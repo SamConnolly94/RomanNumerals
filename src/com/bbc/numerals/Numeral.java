@@ -4,11 +4,11 @@ public class Numeral {
     private boolean isDeductable;
     private String value;
 
+    // DI constructor
     Numeral(String value, boolean isDeductable) {
         this.value = value;
         this.isDeductable = isDeductable;
     }
-
 
     public boolean isDeductable() {
         return isDeductable;
