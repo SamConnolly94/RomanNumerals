@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8b85ce-475e-4a0a-933a-684d48d00740" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bbc/numerals/exceptions/InvalidNumberException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBC Coding Kata - Roman Numerals/com/bbc/numerals/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBC Coding Kata - Roman Numerals/com/bbc/numerals/Numeral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBC Coding Kata - Roman Numerals/com/bbc/numerals/NumeralConverter$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBC Coding Kata - Roman Numerals/com/bbc/numerals/NumeralConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBC Coding Kata - Roman Numerals/com/bbc/numerals/RomanNumeralGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBC Coding Kata - Roman Numerals/com/bbc/numerals/test/NumeralTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bbc/numerals/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bbc/numerals/Numeral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bbc/numerals/datastructures/Numeral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bbc/numerals/NumeralConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bbc/numerals/converters/NumeralConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bbc/numerals/RomanNumeralGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bbc/numerals/interfaces/RomanNumeralGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bbc/numerals/test/NumeralTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bbc/numerals/test/NumeralTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
