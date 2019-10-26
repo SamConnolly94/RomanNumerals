@@ -1,6 +1,6 @@
 package com.bbc.numerals.test;
 
-import com.bbc.numerals.NumeralConverter;
+import com.bbc.numerals.converters.NumeralConverter;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
@@ -45,6 +45,16 @@ public class NumeralTests {
     @Test
     public void Twenty() {
         Assert.assertEquals(numeralConverter.generate(20), "XX");
+    }
+
+    @Test
+    public void OneHundredNine() {
+        Assert.assertEquals(numeralConverter.generate(109), "CIX");
+    }
+
+    @Test
+    public void Ninety() {
+        Assert.assertEquals(numeralConverter.generate(90), "XC");
     }
 
     @Test

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BBC Coding Kata - Roman Numerals.iml" filepath="$PROJECT_DIR$/BBC Coding Kata - Roman Numerals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RomanNumerals.iml" filepath="$PROJECT_DIR$/RomanNumerals.iml" />
     </modules>
   </component>
 </project>
